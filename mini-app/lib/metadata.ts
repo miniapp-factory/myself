@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "RevTrader";
+export const description = "Automated trading bot that opens reverse positions in long and short strategies.";
 export const url = process.env.NEXT_PUBLIC_URL;
